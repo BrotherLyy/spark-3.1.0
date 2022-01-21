@@ -10,6 +10,7 @@ object Main {
 
   def main(args: Array[String]): Unit = {
     println("aaa")
+    Range(1,100,1).foreach(println)
   }
 
 }
